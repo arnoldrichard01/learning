@@ -6,7 +6,11 @@ int main(){
     //    cout << "Arnold is great"<< endl;
     //}
 
-    //while loop 
+    //while loop & do while
+    int i = 6;
 
+    do {
+        cout << "Arnold"<< endl;    }
+    while (i<=5);
     return 0;
 }
